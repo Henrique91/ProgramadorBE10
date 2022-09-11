@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\bin\Debug\net6.0\Encontro Remoto 2.exe
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\bin\Debug\net6.0\Encontro Remoto 2.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\bin\Debug\net6.0\Encontro Remoto 2.runtimeconfig.json
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\bin\Debug\net6.0\Encontro Remoto 2.dll
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\bin\Debug\net6.0\Encontro Remoto 2.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\obj\Debug\net6.0\Encontro Remoto 2.csproj.AssemblyReference.cache
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\obj\Debug\net6.0\Encontro Remoto 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\obj\Debug\net6.0\Encontro Remoto 2.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\obj\Debug\net6.0\Encontro Remoto 2.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\obj\Debug\net6.0\Encontro Remoto 2.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\obj\Debug\net6.0\Encontro Remoto 2.dll
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\obj\Debug\net6.0\refint\Encontro Remoto 2.dll
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\obj\Debug\net6.0\Encontro Remoto 2.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\obj\Debug\net6.0\Encontro Remoto 2.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Área de Trabalho\PBE10\UC_9_SA2_ER1\Encontro Remoto 2\obj\Debug\net6.0\ref\Encontro Remoto 2.dll
