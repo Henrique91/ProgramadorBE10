@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\henri\\OneDrive\\Área de Trabalho\\ProgramadorBE10\\UC_9\\Encontro Remoto 5\\CadastroPessoaPBE10\\Cadastro_Pessoas_PBE10.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\henri\\OneDrive\\Área de Trabalho\\ProgramadorBE10\\UC_9\\Encontro Remoto 5\\CadastroPessoaPBE10\\Cadastro_Pessoas_PBE10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henri\\OneDrive\\Área de Trabalho\\ProgramadorBE10\\UC_9\\Encontro Remoto 5\\CadastroPessoaPBE10\\Cadastro_Pessoas_PBE10.csproj",
+        "projectName": "Cadastro_Pessoas_PBE10",
+        "projectPath": "C:\\Users\\henri\\OneDrive\\Área de Trabalho\\ProgramadorBE10\\UC_9\\Encontro Remoto 5\\CadastroPessoaPBE10\\Cadastro_Pessoas_PBE10.csproj",
+        "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henri\\OneDrive\\Área de Trabalho\\ProgramadorBE10\\UC_9\\Encontro Remoto 5\\CadastroPessoaPBE10\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
